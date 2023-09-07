@@ -1,4 +1,5 @@
 ![]([bit.ly/sammtanrt])
+[<img src="https://raw.githubusercontent.com/[your-github-username]/[your-github-username]/main/profile-views.svg" height="50"/>](https://github.com/[sammtan])
 
 ### Hi there 👋
 
