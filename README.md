@@ -1,4 +1,3 @@
-[<img src="https://raw.githubusercontent.com/[sammtan]/[sammtan]/main/profile-views.svg" height="50"/>](https://github.com/[sammtan])
 ### Hi there 👋
 
 <!--
