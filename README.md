@@ -1,6 +1,6 @@
-## Ad maiora natus sum
-Ad maiora semper
-Ad maiorem Dei Gloriam
+$$
+Ad \space maiora \space natus \space sum, ad \space maiora \space semper, ad \space maiorem \space Dei \space Gloriam.
+$$
 
 <!--
 **sammtan/sammtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
