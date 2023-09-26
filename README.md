@@ -1,5 +1,5 @@
 $$
-\huge {Ad \space maiora \space natus \space sum,\space ad \space maiora \space semper, \space ad maiorem \space Dei \space Gloriam.}
+\huge {Ad \space maiora \space natus \space sum,\space ad \space maiora \space semper, \space ad \space maiorem \space Dei \space Gloriam.}
 $$
 
 <!--
